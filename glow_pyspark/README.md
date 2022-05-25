@@ -4,6 +4,7 @@
 * [pvcf to genotype lookup table](#2lookup)
 * [running vep](#vep)
 <a name="about"></a>
+<br\>
 This folder contains helper functions to process pvcfs using the glow package
 1. Split Multi-allelics and normalize indel representation
 2. Generate het, hom, aaf, hwe_stats
