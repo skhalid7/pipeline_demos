@@ -1,4 +1,4 @@
-# cncd_pipelines
+# glow_pyspark
 * [About](#about)
 * [ Set up glow ](#setup)
 * [pvcf to genotype lookup table](#2lookup)
