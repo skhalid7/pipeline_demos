@@ -1,0 +1,4 @@
+Link,study,VM instance,phenotype_file,phenotype,CHR,POS,ID,effectAllele,otherAllele,infoScore,beta,SE,pvalue,effect_AF,cases_AF,controls_AF,build,total_N,snp_N,cases_N,controls_N,sep,compression
+https://pheweb.jp/download/MI,Biobank_Japan,vep-config,GWASsummary_MI_Japanese_SakaueKanai2020.auto.txt.gz,MI,CHR,POS,SNPID,Allele2,Allele1,imputationInfo,BETA,SE,p.value,AF_Allele2,AF.Cases,AF.Controls,hg19,161206,,14992,146214,TAB,gz
+https://docs.google.com/spreadsheets/d/1kvPoupSzsSFBNSztMzl04xMoSC3Kcx3CrjVf4yBmESU/edit#gid=227859291,UKB_BN_Imputed_v3,vep-config,I9_MI_STRICT.gwas.imputed_v3.both_sexes.high_confidence.tsv.gz,MI_strict,CHR,POS,variant,Alt,Ref,,beta,se,pval,,,,hg19,361194,,7018,354176,TAB,gz
+http://www.cardiogramplusc4d.org/data-downloads/,Cardiogram_nikpey_2015,vep-config,cad.add.160614.website.txt,MI,chr,bp_hg19,markername,effect_allele,noneffect_allele,median_info,beta,se_dgc,p_dgc,effect_allele_freq,,,hg19,184305,,60801,123504,TAB,
